@@ -30,8 +30,4 @@ I’m an 18-year-old apprentice application developer from Altendorf, Switzerlan
 - [LinkedIn](https://linkedin.com/in/andrin-wulz)  
 - [Email](mailto:andrin.wulz@gmail.com)  
 
-## Stats
-![Profile Views](https://komarev.com/ghpvc/?username=awulz&label=Profile%20views&color=0e75b6&style=flat)
-
----
 *Last updated: June 24, 2025*
