@@ -1,16 +1,37 @@
-## Hi there 👋
+# Andrin Wulz - Developer Portfolio
 
-<!--
-**awulz/awulz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I’m an 18-year-old apprentice application developer from Altendorf, Switzerland, passionate about crafting innovative web and mobile solutions. In my free time, I build websites and apps to enhance business growth and personal development.
 
-Here are some ideas to get you started:
+## Current Projects
+- **Mont Blanc Café Website**  
+  - A dynamic website for Café Mont Blanc in Zug, featuring Italian patisserie, brunch, and catering options.  
+  - [Live Preview](https://mont-blanc-cafeteria.netlify.app/)  
+- **Self-Improvement App (Flutter)**  
+  - A mobile app with facial analysis (ChatGPT API), nutrition tracking (protein, calories, carbs goals), and food image analysis (ChatGPT + OpenFoodFacts API).  
+  - [In Development]  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Completed Projects
+### Websites
+- [SinoSwissHub](https://sinoswisshub.ch/) - Platform connecting Swiss and Chinese businesses.  
+- [Fahrschule Deuber](https://fahrschule-deuber.ch/) - Driving school website with booking features.  
+- [Café Medina](https://cafe-medina.ch/) - Café website showcasing menu and services.  
+- [Pritz-IT Redesign](https://pritz-it-redesign.netlify.app/) - Modernized IT service website.  
+
+### Apps
+- [Self-Improvement App] - Ongoing Flutter project (details forthcoming).  
+
+## Skills
+- **Web Development**: HTML, CSS, JavaScript, Next.js, Tailwind CSS, SEO  
+- **Mobile Development**: Flutter, API Integration (ChatGPT, OpenFoodFacts)  
+- **Other Tools**: Git, Netlify, Figma  
+
+## Connect With Me
+- [LinkedIn](https://linkedin.com/in/andrin-wulz)  
+- [Email](mailto:andrin.wulz@gmail.com)  
+
+## Stats
+![Profile Views](https://komarev.com/ghpvc/?username=awulz&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+*Last updated: June 24, 2025*
