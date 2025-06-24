@@ -21,14 +21,5 @@ I’m an 18-year-old apprentice application developer from near Zürich, Switzer
 ### Apps
 - [Self-Improvement App] - Ongoing Flutter project (details forthcoming).  
 
-## Skills
-- **Web Development**: HTML, CSS, JavaScript, Next.js, Tailwind CSS, SEO  
-- **Mobile Development**: Flutter, API Integration (ChatGPT, OpenFoodFacts)  
-- **Other Tools**: Git, Netlify, Figma  
-
-## Connect With Me
-- [LinkedIn](https://linkedin.com/in/andrin-wulz)  
-- [Email](mailto:andrin.wulz@gmail.com)  
-
 ---
 *Last updated: June 24, 2025*
