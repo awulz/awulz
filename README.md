@@ -1,7 +1,7 @@
 # Andrin Wulz - Developer Portfolio
 
 ## About Me
-I’m an 18-year-old apprentice application developer from Altendorf, Switzerland, passionate about crafting innovative web and mobile solutions. In my free time, I build websites and apps to enhance business growth and personal development.
+I’m an 18-year-old apprentice application developer from near Zürich, Switzerland, passionate about crafting innovative web and mobile solutions. In my free time, I build websites and apps to enhance business growth and personal development.
 
 ## Current Projects
 - **Mont Blanc Café Website**  
@@ -30,4 +30,5 @@ I’m an 18-year-old apprentice application developer from Altendorf, Switzerlan
 - [LinkedIn](https://linkedin.com/in/andrin-wulz)  
 - [Email](mailto:andrin.wulz@gmail.com)  
 
+---
 *Last updated: June 24, 2025*
