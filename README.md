@@ -14,7 +14,7 @@ I’m an 18-year-old apprentice application developer from near Zürich, Switzer
 ## Completed Projects
 ### Websites
 - [SinoSwissHub](https://sinoswisshub.ch/) - Platform connecting Swiss and Chinese businesses.  
-- [Fahrschule Deuber](https://fahrschule-deuber.ch/) - Driving school website with booking features.  
+- [Fahrschule Deuber](https://fahrschule-deuber.ch/) - Driving school website.
 - [Café Medina](https://cafe-medina.ch/) - Café website showcasing menu and services.  
 - [Pritz-IT Redesign](https://pritz-it-redesign.netlify.app/) - Modernized IT service website.  
 
