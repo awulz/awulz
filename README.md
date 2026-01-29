@@ -18,8 +18,4 @@ I’m an 18-year-old apprentice application developer from near Zürich, Switzer
 - [Café Medina](https://cafe-medina.ch/) - Café website showcasing menu and services.  
 - [Pritz-IT Redesign](https://pritz-it-redesign.netlify.app/) - Modernized IT service website.  
 
-### Apps
-- [Self-Improvement App] - Ongoing Flutter project (details forthcoming).  
-
----
 *Last updated: June 24, 2025*
