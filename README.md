@@ -1,21 +1,29 @@
-# Andrin Wulz - Developer Portfolio
+# Hey, Welcome to my GitHub Page 
 
-## About Me
-I’m an 18-year-old apprentice application developer from near Zürich, Switzerland, passionate about crafting innovative web and mobile solutions. In my free time, I build websites and apps to enhance business growth and personal development.
+I'm an apprentice application developer based near Zürich, Switzerland, currently doing my internship at **Exxeta**. In my free time, I build websites for local businesses and explore local SEO, new technologies, and AI tools. Full-stack oriented.
 
-## Current Projects
-- **Mont Blanc Café Website**  
-  - A dynamic website for Café Mont Blanc in Zug, featuring Italian patisserie, brunch, and catering options.  
-  - [Live Preview](https://mont-blanc-cafeteria.netlify.app/)  
-- **Self-Improvement App (Flutter)**  
-  - A mobile app with facial analysis (ChatGPT API), nutrition tracking (protein, calories, carbs goals), and food image analysis (ChatGPT + OpenFoodFacts API).  
-  - [In Development]  
+## Tech Stack
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 
 ## Completed Projects
-### Websites
-- [SinoSwissHub](https://sinoswisshub.ch/) - Platform connecting Swiss and Chinese businesses.  
-- [Fahrschule Deuber](https://fahrschule-deuber.ch/) - Driving school website.
-- [Café Medina](https://cafe-medina.ch/) - Café website showcasing menu and services.  
-- [Pritz-IT Redesign](https://pritz-it-redesign.netlify.app/) - Modernized IT service website.  
 
-*Last updated: June 24, 2025*
+- [AIMBO Robotics](https://aimborobotics.net/)
+- [SinoSwissHub](https://sinoswisshub.ch/)
+- [Train With Steel](https://www.trainwithsteel.ch/)
+- [Fahrschule Deuber](https://fahrschule-deuber.ch/)
+- [Mont Blanc Zug](https://mont-blanc-zug.ch/)
+
+## Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrin-wulz-0a3b0a322/)
