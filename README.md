@@ -18,7 +18,7 @@ I'm an apprentice application developer based near Zürich, Switzerland, current
 
 ## Completed Projects
 
-- [AIMBO Robotics](https://aimborobotics.net/)
+- [AIMBO](https://aimbo.ch/)
 - [SinoSwissHub](https://sinoswisshub.ch/)
 - [Train With Steel](https://www.trainwithsteel.ch/)
 - [Fahrschule Deuber](https://fahrschule-deuber.ch/)
