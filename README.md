@@ -19,8 +19,8 @@ I'm an apprentice application developer based near Zürich, Switzerland, current
 ## Completed Projects
 
 - [AIMBO](https://aimbo.ch/)
-- [Nadjas Fahrsch](https://sinoswisshub.ch/)
-- [SinoSwissHub](https://nadja-fahrschule.ch/)
+- [Nadjas Fahrschule](https://nadja-fahrschule.ch/)
+- [SinoSwissHub](https://sinoswisshub.ch/)
 - [Train With Steel](https://www.trainwithsteel.ch/)
 - [Fahrschule Deuber](https://fahrschule-deuber.ch/)
 - [Mont Blanc Zug](https://mont-blanc-zug.ch/)
